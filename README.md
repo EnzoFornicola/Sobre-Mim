@@ -30,5 +30,5 @@ Busco uma oportunidade de estágio para aplicar meus conhecimentos em desenvolvi
 
 ---
 
-Contato: enzofornicola1301@gmail.com
-LinkedIn: linkedin.com/in/enzofornicola
+- Contato: enzofornicola1301@gmail.com
+- LinkedIn: linkedin.com/in/enzofornicola
