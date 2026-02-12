@@ -1,8 +1,8 @@
 Enzo Fornicola
 
-Sou estudante de Desenvolvimento de Sistemas na FIAP SCHOOL
-Em busca de estágio na área técnica
-São Paulo - Brasil  
+- Sou estudante de Desenvolvimento de Sistemas na FIAP SCHOOL
+- Em busca de estágio na área técnica
+- São Paulo - Brasil  
 
 ---
 
